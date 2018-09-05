@@ -14,3 +14,5 @@ gradle-app.setting
 .gradletasknamecache
 
 .DS_Store
+bin
+obj
